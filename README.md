@@ -4,6 +4,11 @@
 
 -  참고영상 : https://www.youtube.com/watch?v=LXJhA3VWXFA
 
+## docker?
+
+- docker란 어플리케이션을 실행하는데 있어 필요한 것(코드 파일, dependencies, configuration 등)들을 하나의 container로 묶어서 관리할 수 있다.
+- 즉, 한번 설정해놓으면 어떤 운영체제에서든 동일한 환경으로 어플리케이션을 실행할 수 있다.
+
 ## Dockerfile
 
 -  어떤 이미지를 만들건지, 해당 서버를 만들기위해 어떤 것이 필요한 지 명시하는 곳
